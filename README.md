@@ -2,7 +2,7 @@
 <p align="center"><img src="logo.png" width="250px" height="250px" alt="insta logo"></p>
 This program will help you to delete an Telegram channel group account by the fact that it contains a lot of accounts that were created with the help of a program (bulk accs) , every month an update is made automatically to users and proxies.
 
-----
+---
 
 ## ⚙️ HOW TO USE  
    This program can be used very simply, you only need to enter the username or link of an account channel group.
